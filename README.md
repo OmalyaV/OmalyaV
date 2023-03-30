@@ -1,6 +1,8 @@
 ### Hi there 👋
 - :computer: I’m learning Computer Science and Engineering at University of Moratuwa
-
+- 📫 Reach me at: 
+                 omalyaandrahennadige@gmail.com
+                 LinkedIn - https://www.linkedin.com/in/omalya-vidushini-5bb266241/
 <!--
 **OmalyaV/OmalyaV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
